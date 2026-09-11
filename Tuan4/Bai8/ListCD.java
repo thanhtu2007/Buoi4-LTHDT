@@ -1,4 +1,4 @@
-package Tuan3.Bai8;
+package Tuan4.Bai8;
 
 import java.util.Scanner;
 
